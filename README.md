@@ -1,5 +1,6 @@
 # Hướng Dẫn DECODE IONCUBE
 **Nếu code này mà không dùng được, có lẽ bạn phải như tôi, trả tiền để decode nó ở website: https://easytoyou.eu/decoders, giá khoảng 10-15$, tôi không nhớ rõ.** 
+**If this code doesn't work, you may have to pay to decode it at the website: https://easytoyou.eu/decoders, cost about 10-15$, I don't remember clearly.**
 
 - Cảm ơn tác giả bài viết: https://github.com/ionZender/ionCube-Decoder đã cho code. Dưới đây chỉ giải thích các bước thực hiện. Nó thực sự chạy: 03/09/2023 (Đã test, phiên bản PHP 7.4)
 - Dưới đây là các bước thực hiện:
